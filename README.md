@@ -1,1 +1,1 @@
-# Amazon
+# A replica of Amazon
